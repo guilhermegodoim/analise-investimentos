@@ -4,7 +4,7 @@ Este repositório contém a análise quantitativa e estratégica comparativa ent
 - ☀️ **ESF** – Energia Solar Fotovoltaica, em Juazeiro (BA)  
 - 🌱 **EBM** – Cogeração por Biomassa, em Chapecó (SC)
 
-A análise segue a metodologia exigida na disciplina **CE839 – Análise de Projetos** (UNICAMP), com foco em avaliação econômica sob incerteza, utilizando **simulação de Monte Carlo** para mensuração de risco.
+A análise segue a metodologia exigida na disciplina **CE839 – Introdução à Administração para a Computação** (UNICAMP), com foco em avaliação econômica sob incerteza, utilizando **simulação de Monte Carlo** para mensuração de risco.
 
 ---
 
